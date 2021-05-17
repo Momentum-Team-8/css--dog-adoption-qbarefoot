@@ -16,18 +16,13 @@ body {
 }
 
 .footer {
-  background-color: #A6A9F0;
-  border-bottom: 2px solid;
-  padding-top: 0.5rem;
-  padding-left: 0.5rem;
-  align-content: center;
+  height: flex;
+  width: flex;
+  line-height: 100px;
+  background-color: #A6A9F0;  
+  flex wrap: wrap;
+  justify content: auto
 }
-
-.footer1 {
-
-}
-
-
 
 
 
